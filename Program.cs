@@ -8,9 +8,7 @@ namespace Day6
         {
             Console.WriteLine("Day6_LogicalProgram");
 
-            CouponNumber.FindCouponNumber();
-
-
+            ProgramStopWatch.StopWatch();
 
         }
     }
