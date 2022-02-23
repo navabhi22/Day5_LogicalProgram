@@ -8,9 +8,7 @@ namespace Day6
         {
             Console.WriteLine("Day6_LogicalProgram");
 
-            Console.WriteLine("enter the number");
-            int num = Convert.ToInt32(Console.ReadLine());
-            PrimeNumber.PrimeNum(num);
+            Reverse.ReverseNumber();
 
 
 
