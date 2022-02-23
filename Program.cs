@@ -8,6 +8,9 @@ namespace Day6
         {
             Console.WriteLine("Day6_LogicalProgram");
 
+            FibonacciSeries.DispalyFibonacci();
+
+
         }
     }
 }
