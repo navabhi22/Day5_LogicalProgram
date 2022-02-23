@@ -9,7 +9,7 @@ namespace Day6
     public class FibonacciSeries
     {
         /// <summary>
-        /// Calculate the Nth number of FibonacciSeries
+        /// Print FibonacciSeries
         /// </summary>
         public static void DispalyFibonacci()
         {
