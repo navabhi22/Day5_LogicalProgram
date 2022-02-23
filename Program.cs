@@ -8,7 +8,7 @@ namespace Day6
         {
             Console.WriteLine("Day6_LogicalProgram");
 
-            Reverse.ReverseNumber();
+            CouponNumber.FindCouponNumber();
 
 
 
